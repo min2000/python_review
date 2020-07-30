@@ -1,4 +1,5 @@
 #소수 찾기
+#2020.07.31
 
 def isPrime(num):
     if num==1:
